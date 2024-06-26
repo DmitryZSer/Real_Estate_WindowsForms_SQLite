@@ -253,7 +253,7 @@ WHERE d.RealEstateCode = @id";
 
                     if (!dbHelper.RecordExistsByValueTableColumn(RealEstateCodeTextBox.Text, "RealEstate", "Code"))
                     {
-                        MessageBox.Show("Запись из таблицы Professions с таким Code не существует!");
+                        MessageBox.Show("Запись из таблицы RealEstate с таким Code не существует!");
                         return;
                     }
 

@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{7B52BDB7-AA13-4E4E-AA48-2F380C5F1934}|Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj|solutionrelative:real_estate_windowsforms\\tablesforms\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B52BDB7-AA13-4E4E-AA48-2F380C5F1934}|Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj|e:\\projects\\real_estate_sql\\real_estate_windowsforms_sqlite\\real_estate_windowsforms\\tablesforms\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7B52BDB7-AA13-4E4E-AA48-2F380C5F1934}|Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj|e:\\projects\\real_estate_sql\\real_estate_windowsforms_sqlite\\real_estate_windowsforms\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B52BDB7-AA13-4E4E-AA48-2F380C5F1934}|Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj|solutionrelative:real_estate_windowsforms\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B52BDB7-AA13-4E4E-AA48-2F380C5F1934}|Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj|E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\real_estate_windowsforms\\tablesforms\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7B52BDB7-AA13-4E4E-AA48-2F380C5F1934}|Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj|solutionrelative:real_estate_windowsforms\\tablesforms\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteHelper.cs",
+              "DocumentMoniker": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\SQLiteHelper.cs",
+              "RelativeDocumentMoniker": "Real_Estate_WindowsForms\\SQLiteHelper.cs",
+              "ToolTip": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\SQLiteHelper.cs",
+              "RelativeToolTip": "Real_Estate_WindowsForms\\SQLiteHelper.cs",
+              "ViewState": "AQIAALUBAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:56:27.425Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Real_Estate_WindowsForms\\TablesForms\\Deals.cs",
               "ToolTip": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\TablesForms\\Deals.cs",
               "RelativeToolTip": "Real_Estate_WindowsForms\\TablesForms\\Deals.cs",
-              "ViewState": "AQIAAMgAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "ViewState": "AQIAANkBAAAAAAAAAAAqwP8AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T16:45:43.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Deals.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\TablesForms\\Deals.cs",
               "RelativeDocumentMoniker": "Real_Estate_WindowsForms\\TablesForms\\Deals.cs",

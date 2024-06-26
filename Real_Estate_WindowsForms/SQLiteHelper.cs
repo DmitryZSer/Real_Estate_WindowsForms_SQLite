@@ -18,6 +18,9 @@ namespace Real_Estate_WindowsForms
         /// </summary>
         public static string connectingStringFile = @"Data Source=DB/Real_Estate.db";
 
+        /// <summary>
+        /// Наименование колонки с айди
+        /// </summary>
         public static string IDfieldName = "Code";
         public static SQLiteConnection connection = new SQLiteConnection(connectingStringFile);
 
