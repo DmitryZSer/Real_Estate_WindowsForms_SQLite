@@ -10,6 +10,12 @@ namespace Real_Estate_WindowsForms
 {
     public static class FieldValidator
     {
+        /// <summary>
+        /// Проверка заполненности передаваемых TextBox
+        /// </summary>
+        /// <param name="errorMessages">Сообщение об ошибке</param>
+        /// <param name="textBoxes">Массив TextBox</param>
+        /// <returns>В случае если один или более незаполненны возвращается false и текст ошибки</returns>
         public static bool ValidateFields(out string errorMessages, params TextBox[] textBoxes)
         {
             var errors = new List<string>();
@@ -25,6 +31,12 @@ namespace Real_Estate_WindowsForms
             return errors.Count == 0;
         }
 
+        /// <summary>
+        /// Проверка заполненности передаваемых MaskedTextBox
+        /// </summary>
+        /// <param name="errorMessages">Сообщение об ошибке</param>
+        /// <param name="maskedTextBoxes">Массив MaskedTextBox</param>
+        /// <returns>В случае если один или более незаполненны возвращается false и текст ошибки</returns>
         public static bool ValidateFields(out string errorMessages, params MaskedTextBox[] maskedTextBoxes)
         {
             var errors = new List<string>();
@@ -40,6 +52,12 @@ namespace Real_Estate_WindowsForms
             return errors.Count == 0;
         }
 
+        /// <summary>
+        /// Проверка заполненности полей с целочисленными значениями
+        /// </summary>
+        /// <param name="errorMessages">Сообщение об ошибке</param>
+        /// <param name="textBoxes">Массив TextBox</param>
+        /// <returns>В случае если один или более не соответствуют возвращается false и текст ошибки</returns>
         public static bool ValidateIntFields(out string errorMessages, params TextBox[] textBoxes)
         {
             var errors = new List<string>();
@@ -55,6 +73,12 @@ namespace Real_Estate_WindowsForms
             return errors.Count == 0;
         }
 
+        /// <summary>
+        /// Проверка заполненности полей с плавающей запятой
+        /// </summary>
+        /// <param name="errorMessages">Сообщение об ошибке</param>
+        /// <param name="textBoxes">Массив TextBox</param>
+        /// <returns>В случае если один или более не соответствуют возвращается false и текст ошибки</returns>
         public static bool ValidateFloatFields(out string errorMessages, params TextBox[] textBoxes)
         {
             var errors = new List<string>();
@@ -71,11 +95,20 @@ namespace Real_Estate_WindowsForms
             return errors.Count == 0;
         }
 
+        /// <summary>
+        /// Получить наименование столбца из TextBox
+        /// </summary>
+        /// <param name="textBox">TextBox имя столбца из которого необходимо получить</param>
+        /// <returns>Текстовое значение наименования столбца</returns>
         public static string GetTextBoxName(TextBox textBox)
         {
             return textBox.Name.Replace("TextBox", "");
         }
 
+        /// <summary>
+        /// Очистка всех полей на форме
+        /// </summary>
+        /// <param name="parent">Форма, в которой нужно очистить поля</param>
         public static void ClearTextBoxes(Control parent)
         {
             foreach (Control control in parent.Controls)
@@ -100,7 +133,11 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-
+        /// <summary>
+        /// Поиск всех TextBox на нужной панели
+        /// </summary>
+        /// <param name="panel">Панель из формы</param>
+        /// <returns>Список всех найденных TextBox</returns>
         public static TextBox[] FindTextBoxesColumnsPanel(Panel panel)
         {
             List<TextBox> list = new List<TextBox>();
@@ -115,6 +152,11 @@ namespace Real_Estate_WindowsForms
             return list.ToArray();
         }
 
+        /// <summary>
+        /// Поиск всех MaskedTextBox на нужной панели
+        /// </summary>
+        /// <param name="panel">Панель из формы</param>
+        /// <returns>Список всех найденных MaskedTextBox</returns>
         public static MaskedTextBox[] FindMaskedTextBoxesColumnsPanel(Panel panel)
         {
             List<MaskedTextBox> list = new List<MaskedTextBox>();
@@ -129,33 +171,31 @@ namespace Real_Estate_WindowsForms
             return list.ToArray();
         }
 
+        /// <summary>
+        /// Передача значения из MaskedTextBox к TextBox
+        /// </summary>
+        /// <param name="maskedTextBox">Откуда передается</param>
+        /// <param name="textBox">Куда передается</param>
         public static void ReplaceValuesMaskedTBtoTB(MaskedTextBox maskedTextBox, TextBox textBox)
         {
             textBox.Text = maskedTextBox.Text;
         }
 
+        /// <summary>
+        /// Передача значения из TextBox к MaskedTextBox
+        /// </summary>
+        /// <param name="textBox">Откуда передается</param>
+        /// <param name="maskedTextBox">Куда передается</param>
         public static void ReplaceValuesTBtoMaskedTB(TextBox textBox, MaskedTextBox maskedTextBox)
         {
             maskedTextBox.Text = textBox.Text;
         }
 
-        public static bool CheckTextBoxLenght(TextBox TextBox, int needLenght)
-        {
-            return TextBox.TextLength == needLenght;
-        }
-
-        public static bool CheckTextBoxDigitCount(TextBox textBox, int requiredDigitCount)
-        {
-            int digitCount = textBox.Text.Count(char.IsDigit);
-            if (digitCount != requiredDigitCount)
-            {
-                return false;
-            }
-
-            return true;
-        }
-
-
+        /// <summary>
+        /// Проверяет введен ли правильный формат почты
+        /// </summary>
+        /// <param name="email">Значение которое нужно проверить</param>
+        /// <returns>Возвращает true — если формат почты введен правильно, false — если нет</returns>
         public static bool IsValidEmail(string email)
         {
             try
@@ -169,6 +209,12 @@ namespace Real_Estate_WindowsForms
             }
         }
 
+        /// <summary>
+        /// Проверяет введен ли правильный формат даты и соответствует ли возраст от 18 до 100 лет 
+        /// </summary>
+        /// <param name="errorMessage">Сообщение об ошибке</param>
+        /// <param name="text">Текст проверяемой даты</param>
+        /// <returns>Возвращает true — если формат даты введен правильно, false — если нет</returns>
         public static bool ValidateDateTimeFieldWithAge(out string errorMessage, string text)
         {
             if (!DateTime.TryParse(text, out DateTime parsedDate))
@@ -190,6 +236,12 @@ namespace Real_Estate_WindowsForms
             return true;
         }
 
+        /// <summary>
+        /// Проверяет введен ли правильный формат даты
+        /// </summary>
+        /// <param name="errorMessage">Сообщение об ошибке</param>
+        /// <param name="text">Текст проверяемой даты</param>
+        /// <returns>Возвращает true — если формат даты введен правильно, false — если нет</returns>
         public static bool ValidateDateTimeField(out string errorMessage, string text)
         {
             if (!DateTime.TryParse(text, out DateTime parsedDate))
@@ -200,24 +252,6 @@ namespace Real_Estate_WindowsForms
 
             errorMessage = string.Empty;
             return true;
-        }
-
-
-        public static List<int> ExtractNumbers(string input)
-        {
-            List<int> numbers = new List<int>();
-
-            // Проходим по строке парами символов
-            for (int i = 0; i < input.Length; i += 2)
-            {
-                if (Char.IsDigit(input[i]) && Char.IsDigit(input[i + 1]))
-                {
-                    string numberStr = input.Substring(i, 2);
-                    numbers.Add(int.Parse(numberStr));
-                }
-            }
-
-            return numbers;
         }
     }
 }

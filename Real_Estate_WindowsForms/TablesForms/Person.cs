@@ -51,7 +51,7 @@ namespace Real_Estate_WindowsForms.TablesForms
         private void UpdatePhoneButton_Click(object sender, EventArgs e)
         {
             FieldValidator.ReplaceValuesMaskedTBtoTB(PhoneUpdateMaskedTextBox, PhoneUpdateTextBox);
-            if (!FieldValidator.CheckTextBoxLenght(PhoneUpdateTextBox, 17))
+            if (!PhoneMaskedTextBox.MaskCompleted)
             {
                 MessageBox.Show("Поле номера телефона не заполнено полностью!");
                 return;
@@ -158,7 +158,7 @@ namespace Real_Estate_WindowsForms.TablesForms
             {
                 if (FieldValidator.ValidateFields(out errorMessages, BirthDateMaskedTextBox, PhoneMaskedTextBox))//BirthDateMaskedTextBox.MaskCompleted
                 {
-                    if (!FieldValidator.CheckTextBoxDigitCount(BirthDateTextBox, 8))
+                    if (!BirthDateMaskedTextBox.MaskCompleted)
                     {
                         MessageBox.Show("Поле даты рождения не заполнено полностью!");
                         return;
@@ -168,7 +168,7 @@ namespace Real_Estate_WindowsForms.TablesForms
                         MessageBox.Show(errorMessages);
                         return;
                     }
-                    if (!FieldValidator.CheckTextBoxDigitCount(PhoneTextBox, 11))
+                    if (!PhoneMaskedTextBox.MaskCompleted)
                     {
                         MessageBox.Show("Поле номера телефона не заполнено полностью!");
                         return;
@@ -223,7 +223,7 @@ namespace Real_Estate_WindowsForms.TablesForms
             {
                 if (BirthDateTextBox.Text.Any(char.IsDigit))
                 {
-                    if (!FieldValidator.CheckTextBoxDigitCount(BirthDateTextBox, 8))
+                    if (!BirthDateMaskedTextBox.MaskCompleted)
                     {
                         MessageBox.Show("Поле даты рождения не заполнено полностью!");
                         return;
@@ -238,9 +238,9 @@ namespace Real_Estate_WindowsForms.TablesForms
 
                 if (PhoneTextBox.Text.Substring(2).Any(char.IsDigit))
                 {
-                    if (!FieldValidator.CheckTextBoxDigitCount(PhoneTextBox, 11))
+                    if (!PhoneMaskedTextBox.MaskCompleted)
                     {
-                        MessageBox.Show("Поле номера телефона не заполнено полностью!");
+                        MessageBox.Show("Поле даты рождения не заполнено полностью!");
                         return;
                     }
                 }

@@ -9,6 +9,11 @@ namespace Real_Estate_WindowsForms
 {
     internal class PasswordHelper
     {
+        /// <summary>
+        /// Хэширование строки
+        /// </summary>
+        /// <param name="password">Строка которую необходимо хэшировать</param>
+        /// <returns>Хэшированная строка</returns>
         public static string HashPassword(string password)
         {
             // Создание соли
@@ -29,6 +34,12 @@ namespace Real_Estate_WindowsForms
             return savedPasswordHash;
         }
 
+        /// <summary>
+        /// Проверяет сходится ли пароль в обычном виде и хэшиованном
+        /// </summary>
+        /// <param name="enteredPassword"></param>
+        /// <param name="storedHash"></param>
+        /// <returns>Возвращает true если значения сходятся</returns>
         public static bool VerifyPassword(string enteredPassword, string storedHash)
         {
             // Получение хэша и соли из сохраненного хэша

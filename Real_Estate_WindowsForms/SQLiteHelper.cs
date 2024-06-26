@@ -13,21 +13,38 @@ namespace Real_Estate_WindowsForms
     {
         private string tableName;
 
+        /// <summary>
+        /// Строка подключения, путь к файлу базы данных SQLite
+        /// </summary>
         public static string connectingStringFile = @"Data Source=DB/Real_Estate.db";
+
+        public static string IDfieldName = "Code";
         public static SQLiteConnection connection = new SQLiteConnection(connectingStringFile);
 
+        /// <summary>
+        /// Объявление класса для работы с БД
+        /// </summary>
+        /// <param name="tableName"></param>
         public SQLiteHelper(string tableName)
         {
             this.tableName = tableName;
         }
+
         public SQLiteHelper() { }
 
+        /// <summary>
+        /// Обновление подключение
+        /// </summary>
         public static void ResetConnection()
         {
             connection = new SQLiteConnection(connectingStringFile);
         }
 
-        //Принимает запрос чтобы вернуть таблицу
+        /// <summary>
+        /// Получение данных DataTable из запроса к базе данных  
+        /// </summary>
+        /// <param name="query">Текст запроса</param>
+        /// <returns>Возвращает данные в DataTable</returns>
         public DataTable DTExecuteQueryDT(string query)
         {
             ResetConnection();
@@ -45,7 +62,12 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Поиск записи по id. Принимает запрос, чтобы возвращать таблицу с текстовыми значениями
+        /// <summary>
+        /// Поиск записи по айди
+        /// </summary>
+        /// <param name="query">Текст запроса</param>
+        /// <param name="id">Искомый айди</param>
+        /// <returns>Возвращает данные в DataTable</returns>
         public DataTable FindRecordById(string query, string id)
         {
             ResetConnection();
@@ -64,6 +86,12 @@ namespace Real_Estate_WindowsForms
             }
         }
 
+        /// <summary>
+        /// Поиск записи по значению
+        /// </summary>
+        /// <param name="query">Текст запроса</param>
+        /// <param name="parameterValue">Искомое значение</param>
+        /// <returns>Возвращает данные в DataTable</returns>
         public DataTable FindRecordByValue(string query, string parameterValue)
         {
             ResetConnection();
@@ -82,11 +110,14 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-
-        //Проверка существует ли такая запись в текущей таблице
+        /// <summary>
+        /// Проверка существует ли такая запись в текущей таблице
+        /// </summary>
+        /// <param name="id">Искомый айди</param>
+        /// <returns>Возвращает true если такая запись существует</returns>
         public bool RecordExists(string id)
         {
-            string query = $"SELECT 1 FROM {tableName} WHERE Code = @id LIMIT 1";
+            string query = $"SELECT 1 FROM {tableName} WHERE {IDfieldName} = @id LIMIT 1";
             ResetConnection();
             using (connection)
             {
@@ -99,9 +130,14 @@ namespace Real_Estate_WindowsForms
                     return result != null;
                 }
             }
-        }  
-        
-        //Проверка существует ли такая запись в текущей таблице если колонка нестандартная
+        }
+
+        /// <summary>
+        /// Проверка существует ли такая запись в текущей таблице
+        /// </summary>
+        /// <param name="id">Искомый айди</param>
+        /// <param name="fieldName">Наименование столбца</param>
+        /// <returns>Возвращает true если такая запись существует</returns>
         public bool RecordExistsByIdField(string id, string fieldName)
         {
             string query = $"SELECT 1 FROM {tableName} WHERE {fieldName} = @id LIMIT 1";
@@ -119,7 +155,13 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Проверка существует ли запись с таким id в таблице по передаваемому значению, названию таблицы, столбца
+        /// <summary>
+        /// Проверка существует ли запись с таким айди в таблице по передаваемому значению, названию таблицы, столбца
+        /// </summary>
+        /// <param name="value">Искомое значение</param>
+        /// <param name="foreignTable">Наименование таблицы</param>
+        /// <param name="foreignColumn">Наименование столбца</param>
+        /// <returns>Возвращает true если такая запись существует</returns>
         public bool RecordExistsByValueTableColumn(string value, string foreignTable, string foreignColumn)
         {
             string query = $"SELECT 1 FROM {foreignTable} WHERE {foreignColumn} = @value LIMIT 1";
@@ -137,7 +179,13 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Обновление записи по id
+        /// <summary>
+        /// Обновление записи по айди
+        /// </summary>
+        /// <param name="id">Айди записи</param>
+        /// <param name="fieldName">Наименование столбца</param>
+        /// <param name="fieldValue">Новое значение</param>
+        /// <returns>Возвращает true если запрос выполнился и поле изменилось</returns>
         public bool UpdateFieldById(string id, string fieldName, object fieldValue)
         {
             if (!RecordExists(id))
@@ -145,7 +193,7 @@ namespace Real_Estate_WindowsForms
                 return false;
             }
 
-            string query = $"UPDATE {tableName} SET {fieldName} = @fieldValue WHERE Code = @id";
+            string query = $"UPDATE {tableName} SET {fieldName} = @fieldValue WHERE {IDfieldName} = @id";
             ResetConnection();
             using (connection)
             {
@@ -161,7 +209,14 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Обновление записи по id для таблицы с колонкой кода не Code
+        /// <summary>
+        /// Обновление записи по айди для таблицы с нестандартной колонкой айди 
+        /// </summary>
+        /// <param name="id">Айди записи</param>
+        /// <param name="fieldName">Наименование столбца</param>
+        /// <param name="fieldValue">Новое значение</param>
+        /// <param name="CodeFieldName">Наименование столбца айди</param>
+        /// <returns>Возвращает true если запрос выполнился и поле изменилось</returns>
         public bool UpdateFieldById(string id, string fieldName, object fieldValue, string CodeFieldName)
         {
             if (!RecordExistsByIdField(id, CodeFieldName))
@@ -184,8 +239,11 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-
-        //Вставка нового значения
+        /// <summary>
+        /// Вставка нового значения
+        /// </summary>
+        /// <param name="textBoxes">Массив заполненных TextBox с названиями соответствующими наименованиям столбцов</param>
+        /// <returns>Если такой записи еще нет и вставка прошла успешно, то возвращается true</returns>
         public bool InsertNewArrow(params TextBox[] textBoxes)
         {
             // Получаем список имен столбцов из переданных TextBox
@@ -230,7 +288,11 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Вставка нового значения для таблицы с колонкой кода не Code
+        /// <summary>
+        /// Вставка нового значения для таблицы, вставляя значение во все поля
+        /// </summary>
+        /// <param name="textBoxes">Массив заполненных TextBox с названиями соответствующими наименованиям столбцов</param>
+        /// <returns>Если такой записи еще нет и вставка прошла успешно, то возвращается true</returns>
         public bool InsertNewArrowTableWithNoCode(params TextBox[] textBoxes)
         {
             // Получаем список имен столбцов из переданных TextBox
@@ -242,7 +304,7 @@ namespace Real_Estate_WindowsForms
 
             // Формируем строку для вставки значений в SQL-запрос
             string columns = string.Join(", ", columnsNames);
-            string values = string.Join(", ", textBoxes.Select(textBox => $"'{textBox.Text}'")); // Пропускаем первый элемент (Code) и берем текст из остальных TextBox
+            string values = string.Join(", ", textBoxes.Select(textBox => $"'{textBox.Text}'")); // НЕ Пропускаем первый элемент (Code) и берем текст из всех TextBox
 
             // Формируем SQL-запрос для проверки существования записи
             string checkQuery = $"SELECT 1 FROM {tableName} WHERE " +
@@ -276,7 +338,11 @@ namespace Real_Estate_WindowsForms
         }
 
 
-        //Удаление записи по id 
+        /// <summary>
+        /// Удаление записи по айди 
+        /// </summary>
+        /// <param name="id">Искомый айди</param>
+        /// <returns>Возвращает true если запрос выполнился и поле удалилось</returns>
         public bool DeleteRecordById(string id)
         {
             if (!RecordExists(id))
@@ -284,7 +350,7 @@ namespace Real_Estate_WindowsForms
                 return false;
             }
 
-            string query = $"DELETE FROM {tableName} WHERE Code = @id";
+            string query = $"DELETE FROM {tableName} WHERE {IDfieldName} = @id";
             ResetConnection();
             using (connection)
             {
@@ -299,7 +365,12 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Удаление записи по id для таблицы с колонкой кода не Code
+        /// <summary>
+        /// Удаление записи по айди для таблицы с нестандартной колонкой айди
+        /// </summary>
+        /// <param name="id">Искомый айди</param>
+        /// <param name="CodeFieldName">Наименование колонки айди</param>
+        /// <returns>Возвращает true если запрос выполнился и поле удалилось</returns>
         public bool DeleteRecordById(string id, string CodeFieldName)
         {
             if (!RecordExistsByIdField(id, CodeFieldName))
@@ -322,10 +393,15 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Обновление записи по id
+        /// <summary>
+        /// Обновление всех заполненных полей записи по айди
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="textBoxes"></param>
+        /// <returns>Если такой записи еще нет и изменение прошло успешно, то возвращается true</returns>
         public bool UpdateRow(string id, params TextBox[] textBoxes)
         {
-            // Проверяем, существует ли запись с указанным ID
+            // Проверяем, существует ли запись с указанным айди
             if (!RecordExists(id))
             {
                 return false;
@@ -336,7 +412,7 @@ namespace Real_Estate_WindowsForms
             foreach (var textBox in textBoxes)
             {
                 // Игнорируем поле Code
-                if (textBox.Name == "CodeTextBox")
+                if (textBox.Name == $"{IDfieldName}TextBox")
                 {
                     continue;
                 }
@@ -359,14 +435,31 @@ namespace Real_Estate_WindowsForms
                 return false;
             }
 
+
+            // Формируем SQL-запрос для проверки существования записи
+            string checkQuery = $"SELECT 1 FROM {tableName} WHERE " +
+                string.Join(" AND ", textBoxes.Skip(1).Select(textBox => $"{FieldValidator.GetTextBoxName(textBox)} = '{textBox.Text}'"));
+
+
             // Формируем запрос на обновление данных
             string fieldsToUpdateString = string.Join(", ", fieldsToUpdate);
-            string query = $"UPDATE {tableName} SET {fieldsToUpdateString} WHERE Code = @id";
+            string query = $"UPDATE {tableName} SET {fieldsToUpdateString} WHERE {IDfieldName} = @id";
 
             ResetConnection();
             using (connection)
             {
                 connection.Open();
+
+                using (var checkCmd = new SQLiteCommand(checkQuery, connection))
+                {
+                    var result = checkCmd.ExecuteScalar();
+                    if (result != null)
+                    {
+                        connection.Close();
+                        return false; // Такая запись уже существует
+                    }
+                }
+
                 using (var cmd = new SQLiteCommand(query, connection))
                 {
                     cmd.Parameters.AddWithValue("@id", id);
@@ -377,7 +470,12 @@ namespace Real_Estate_WindowsForms
             }
         }
 
-        //Регистрация нового пользователя
+        /// <summary>
+        /// Регистрация нового пользователя
+        /// </summary>
+        /// <param name="login">Введенный логин</param>
+        /// <param name="hashedPassword">Введенный пароль</param>
+        /// <returns>Если запрос выполнился успешно, то возвращается true</returns>
         public bool InsertNewUser(string login, string hashedPassword)
         {
             ResetConnection();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj": {}
+    "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj": {
+    "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj",
+        "projectUniqueName": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj",
         "projectName": "Real_Estate_WindowsForms",
-        "projectPath": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj",
+        "projectPath": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms\\obj\\",
+        "outputPath": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms_SQLite\\Real_Estate_WindowsForms\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

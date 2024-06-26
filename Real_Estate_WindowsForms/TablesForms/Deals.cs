@@ -84,7 +84,7 @@ JOIN
         {
             LoadData();
         }
-
+        
         private void SearchBTN1_Click(object sender, EventArgs e)
         {
             string query = @"
@@ -228,7 +228,7 @@ WHERE d.RealEstateCode = @id";
             {
                 if (FieldValidator.ValidateFields(out errorMessages, DealDateMaskedTextBox))
                 {
-                    if (!FieldValidator.CheckTextBoxDigitCount(DealDateTextBox, 8))
+                    if (!DealDateMaskedTextBox.MaskCompleted)
                     {
                         MessageBox.Show("Поле даты сделки не заполнено полностью!");
                         return;
@@ -288,7 +288,7 @@ WHERE d.RealEstateCode = @id";
             {
                 if (DealDateTextBox.Text.Any(char.IsDigit))
                 {
-                    if (!FieldValidator.CheckTextBoxDigitCount(DealDateTextBox, 8))
+                    if (!DealDateMaskedTextBox.MaskCompleted)
                     {
                         MessageBox.Show("Поле даты сделки не заполнено полностью!");
                         return;
