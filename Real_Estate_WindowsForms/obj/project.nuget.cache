@@ -1,0 +1,70 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9WKtl2MnCBngOX46yK9h+7qKRIuDR4dt7WMgN1e/rVrl54wghXCgk3lBQQarsPRYEVWFCZFH0MgQ95JKVEFcg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Real_Estate_SQL\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms\\Real_Estate_WindowsForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite\\8.0.6\\microsoft.data.sqlite.8.0.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.6\\microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sqlite.codefirst\\1.7.0.36\\sqlite.codefirst.1.7.0.36.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.1.6\\sqlitepclraw.provider.dynamic_cdecl.2.1.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.118\\stub.system.data.sqlite.core.netframework.1.0.118.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite\\1.0.118\\system.data.sqlite.1.0.118.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.118\\system.data.sqlite.ef6.1.0.118.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.ef6.migrations\\1.0.113\\system.data.sqlite.ef6.migrations.1.0.113.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.linq\\1.0.118\\system.data.sqlite.linq.1.0.118.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Data.SQLite.EF6.Migrations 1.0.113 зависит от System.Data.SQLite.Core (>= 1.0.90), но System.Data.SQLite.Core 1.0.90 не найден. Использовано наилучшее приближенное соответствие System.Data.SQLite.Core 1.0.91.",
+      "libraryId": "System.Data.SQLite.Core",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-arm64",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Data.SQLite.EF6.Migrations 1.0.113 зависит от System.Data.SQLite.EF6 (>= 1.0.90), но System.Data.SQLite.EF6 1.0.90 не найден. Использовано наилучшее приближенное соответствие System.Data.SQLite.EF6 1.0.91.",
+      "libraryId": "System.Data.SQLite.EF6",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-arm64",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Data.SQLite.EF6.Migrations 1.0.113 зависит от System.Data.SQLite.Linq (>= 1.0.90), но System.Data.SQLite.Linq 1.0.90 не найден. Использовано наилучшее приближенное соответствие System.Data.SQLite.Linq 1.0.91.",
+      "libraryId": "System.Data.SQLite.Linq",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-arm64",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}

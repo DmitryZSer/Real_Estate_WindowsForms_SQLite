@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Real_Estate_WindowsForms.Diagram">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAACAACAAAAAAAACAQAACAAAAAAAAAAAAAABQAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.FieldValidator">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAEABAQAACAACAAAAAAAAAAAAIChAAAAAAQI=</HashCode>
+      <FileName>FieldValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.PasswordHelper">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PasswordHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.SQLiteHelper">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAABBCAAQAAAgBAAgAAAAQAgAJAIAAABAEAAA=</HashCode>
+      <FileName>SQLiteHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.StartForm">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACNRUAJACBEQoIBAACAQAAnCBAAAACBBACQABARAQA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.Deals">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fSAAIZALAKkWARQACACAQCACFAAAQEDDUBAgCQBCoAc=</HashCode>
+      <FileName>TablesForms\Deals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.Employees">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>daAAIYADAKkWARQAAACAQCQCEAAAAABDUBAAAQBCoAY=</HashCode>
+      <FileName>TablesForms\Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.Person">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9+III5AQAKmSARQCCADAYCgCEIgAYAABUBAgAAFCoAc=</HashCode>
+      <FileName>TablesForms\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.Professions">
+    <Position X="19" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ZCAAEZAAAKkSCRQCCACAQCACEAAAQAABUFQgAQhCoAc=</HashCode>
+      <FileName>TablesForms\Professions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.RealEstate">
+    <Position X="20.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zAAI5AfAKmWAxYAAAiAQCQCEAAAQERDUBAgASBCuDc=</HashCode>
+      <FileName>TablesForms\RealEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.TypeOfRealEstate">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ZCAAIYAAQKkSARQCCACAQCACEAAAQAABUBQoAQBCoAI=</HashCode>
+      <FileName>TablesForms\TypeOfRealEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Real_Estate_WindowsForms.TablesForms.Users">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LCAAIYAAAKlSARQACACAQAAiEAgAQEABUBAgAQJCoAM=</HashCode>
+      <FileName>TablesForms\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,784 @@
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe.config
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLite.CodeFirst.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.core.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Buffers.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Memory.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\netstandard.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.AppContext.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Concurrent.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.NonGeneric.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Specialized.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Console.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.Common.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Debug.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Process.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tools.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Drawing.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Dynamic.Runtime.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Calendars.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Extensions.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Pipes.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Expressions.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Parallel.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Queryable.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Http.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NameResolution.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NetworkInformation.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Ping.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Requests.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Security.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Sockets.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ObjectModel.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Extensions.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Reader.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.ResourceManager.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Writer.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Extensions.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Handles.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Numerics.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Claims.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Principal.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.SecureString.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.RegularExpressions.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Overlapped.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Thread.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.ThreadPool.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Timer.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ValueTuple.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XDocument.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlDocument.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.AssemblyReference.cache
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.SuggestedBindingRedirects.cache
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe.config
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Properties.Resources.resources
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.GenerateResource.cache
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CoreCompileInputs.cache
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Est.57732520.Up2Date
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.StartForm.resources
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.MainMenu.resources
+E:\Projects\SQL_PyQt\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.RealEstate.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe.config
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLite.CodeFirst.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.core.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Buffers.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Memory.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\netstandard.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.AppContext.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Concurrent.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.NonGeneric.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Specialized.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Console.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.Common.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Debug.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Process.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tools.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Drawing.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Dynamic.Runtime.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Calendars.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Pipes.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Expressions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Parallel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Queryable.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Http.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NameResolution.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NetworkInformation.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Ping.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Requests.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Security.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Sockets.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ObjectModel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Reader.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.ResourceManager.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Writer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Handles.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Numerics.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Claims.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Principal.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.SecureString.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.RegularExpressions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Overlapped.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Thread.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.ThreadPool.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Timer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ValueTuple.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XDocument.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlDocument.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.AssemblyReference.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe.config
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.StartForm.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Properties.Resources.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.RealEstate.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.GenerateResource.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CoreCompileInputs.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Est.57732520.Up2Date
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.TypeOfRealEstate.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Professions.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Person.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe.config
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.pdb
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLite.CodeFirst.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.core.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Buffers.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Memory.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\netstandard.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.AppContext.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Concurrent.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.NonGeneric.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Specialized.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Console.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.Common.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Contracts.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Debug.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Process.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tools.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tracing.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Drawing.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Dynamic.Runtime.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Calendars.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Extensions.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.IsolatedStorage.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Pipes.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Expressions.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Parallel.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Queryable.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Http.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NameResolution.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NetworkInformation.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Ping.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Requests.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Security.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Sockets.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.Client.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ObjectModel.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Extensions.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Reader.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.ResourceManager.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Writer.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Extensions.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Handles.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Numerics.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Claims.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Principal.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.SecureString.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.RegularExpressions.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Overlapped.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Thread.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.ThreadPool.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Timer.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ValueTuple.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.ReaderWriter.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XDocument.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlDocument.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlSerializer.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csprojAssemblyReference.cache
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe.config
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.MainMenu.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.StartForm.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Properties.Resources.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Person.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Professions.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.RealEstate.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.TypeOfRealEstate.resources
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.GenerateResource.cache
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CoreCompileInputs.cache
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CopyComplete
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe
+E:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.pdb
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe.config
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.pdb
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLite.CodeFirst.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.core.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Buffers.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.Linq.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Memory.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\netstandard.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.AppContext.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Concurrent.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.NonGeneric.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Specialized.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Console.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.Common.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Contracts.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Debug.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Process.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tools.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tracing.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Drawing.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Dynamic.Runtime.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Calendars.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Extensions.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.IsolatedStorage.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Pipes.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Expressions.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Parallel.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Queryable.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Http.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NameResolution.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NetworkInformation.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Ping.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Requests.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Security.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Sockets.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.Client.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ObjectModel.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Extensions.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Reader.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.ResourceManager.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Writer.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Extensions.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Handles.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Numerics.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Claims.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Principal.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.SecureString.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.RegularExpressions.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Overlapped.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Thread.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.ThreadPool.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Timer.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ValueTuple.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.ReaderWriter.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XDocument.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlDocument.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlSerializer.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.AssemblyReference.cache
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe.config
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.MainMenu.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.StartForm.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Properties.Resources.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Person.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Professions.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.RealEstate.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.TypeOfRealEstate.resources
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.GenerateResource.cache
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CoreCompileInputs.cache
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Est.57732520.Up2Date
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe
+D:\КУРСОВЫЕ - удалить поле возвращения\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.AssemblyReference.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe.config
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.MainMenu.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.StartForm.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Properties.Resources.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Person.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Professions.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.RealEstate.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.TypeOfRealEstate.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.GenerateResource.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CoreCompileInputs.cache
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe.config
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLite.CodeFirst.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.core.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Buffers.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Memory.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\netstandard.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.AppContext.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Concurrent.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.NonGeneric.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Specialized.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Console.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.Common.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Debug.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Process.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tools.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Drawing.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Dynamic.Runtime.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Calendars.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Pipes.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Expressions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Parallel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Queryable.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Http.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NameResolution.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NetworkInformation.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Ping.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Requests.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Security.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Sockets.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ObjectModel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Reader.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.ResourceManager.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Writer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Handles.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Numerics.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Claims.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Principal.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.SecureString.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.RegularExpressions.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Overlapped.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Thread.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.ThreadPool.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Timer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ValueTuple.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XDocument.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlDocument.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms_2\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Est.57732520.Up2Date
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe.config
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.exe
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Real_Estate_WindowsForms.pdb
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\EntityFramework.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLite.CodeFirst.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.core.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Buffers.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Memory.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\netstandard.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.AppContext.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Concurrent.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.NonGeneric.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Collections.Specialized.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Console.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Data.Common.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Contracts.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Debug.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Process.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tools.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Diagnostics.Tracing.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Drawing.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Dynamic.Runtime.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Calendars.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Globalization.Extensions.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.IsolatedStorage.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.Pipes.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Expressions.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Parallel.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Linq.Queryable.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Http.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NameResolution.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.NetworkInformation.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Ping.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Requests.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Security.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.Sockets.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.Client.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Net.WebSockets.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ObjectModel.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Extensions.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Reflection.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Reader.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.ResourceManager.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Resources.Writer.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Extensions.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Handles.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Numerics.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Claims.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.Principal.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Security.SecureString.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Text.RegularExpressions.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Overlapped.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Thread.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.ThreadPool.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Threading.Timer.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.ValueTuple.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.ReaderWriter.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XDocument.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlDocument.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XmlSerializer.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csprojAssemblyReference.cache
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe.config
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.MainMenu.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.StartForm.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Properties.Resources.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Person.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Professions.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.RealEstate.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.TypeOfRealEstate.resources
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.GenerateResource.cache
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CoreCompileInputs.cache
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.csproj.CopyComplete
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.exe
+E:\КУРСОВЫЕ - ВРЕМЕННАЯ ПАПКА\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.pdb
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Employees.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Deals.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.Diagram.resources
+E:\Projects\Real_Estate_SQL\Real_Estate_WindowsForms\Real_Estate_WindowsForms\obj\Debug\Real_Estate_WindowsForms.TablesForms.Users.resources
